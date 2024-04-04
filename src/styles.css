@@ -6,3 +6,22 @@ body {
   margin-right: 5%;
   margin-left: 5%;
 }
+.common-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+}
+.form-input {
+  height: 35px;
+  color: blueviolet;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  border: 1px solid blueviolet;
+}
+.form-button {
+  border: 1px solid blueviolet;
+  height: 35px;
+  cursor: pointer;
+}
