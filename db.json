@@ -1,0 +1,46 @@
+{
+  "seller": [
+    {
+      "id": "4d10",
+      "name": "Rahul Agarwal",
+      "email": "rahul123agarwal@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2354",
+      "name": "Sam Agarwal",
+      "email": "sam123agarwal@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "58fa",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "2612",
+      "name": "Rohan",
+      "password": "1234",
+      "email": "Rahul123agarwal99@gmail.com"
+    },
+    {
+      "id": "79e8",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "f393",
+      "name": "pete",
+      "password": "1234",
+      "email": "pete@hh.com"
+    },
+    {
+      "id": "1c47",
+      "name": "bruce",
+      "password": "1234",
+      "email": "Rahul123agarwal99@gmail.com"
+    }
+  ]
+}
